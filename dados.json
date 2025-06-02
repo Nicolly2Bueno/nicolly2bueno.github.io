@@ -1,0 +1,71 @@
+{
+  "Pizzas Tradicionais": [
+    {
+      "id": 1,
+      "nome": "Margherita",
+      "descricao": "Molho de tomate, mussarela, manjericão fresco.",
+      "preco": "R$ 29,90",
+      "imagem": "https://source.unsplash.com/400x300/?pizza,margherita&sig=1"
+    },
+    {
+      "id": 2,
+      "nome": "Calabresa",
+      "descricao": "Calabresa fatiada, cebola roxa e orégano.",
+      "preco": "R$ 32,90",
+      "imagem": "https://source.unsplash.com/400x300/?pizza,calabresa&sig=2"
+    },
+    {
+      "id": 3,
+      "nome": "Portuguesa",
+      "descricao": "Presunto, ovo, cebola, pimentão e azeitonas.",
+      "preco": "R$ 34,90",
+      "imagem": "https://source.unsplash.com/400x300/?pizza,portuguesa&sig=3"
+    }
+  ],
+  "Pizzas Especiais": [
+    {
+      "id": 4,
+      "nome": "Quatro Queijos",
+      "descricao": "Mussarela, gorgonzola, parmesão e catupiry.",
+      "preco": "R$ 36,90",
+      "imagem": "https://source.unsplash.com/400x300/?pizza,queijo&sig=4"
+    },
+    {
+      "id": 5,
+      "nome": "Frango com Catupiry",
+      "descricao": "Frango desfiado com catupiry cremoso.",
+      "preco": "R$ 35,90",
+      "imagem": "https://source.unsplash.com/400x300/?pizza,frango&sig=5"
+    },
+    {
+      "id": 6,
+      "nome": "Pepperoni",
+      "descricao": "Molho de tomate, mussarela e pepperoni.",
+      "preco": "R$ 37,90",
+      "imagem": "https://source.unsplash.com/400x300/?pizza,pepperoni&sig=6"
+    }
+  ],
+  "Pizzas Doces": [
+    {
+      "id": 7,
+      "nome": "Chocolate",
+      "descricao": "Chocolate ao leite derretido com granulado.",
+      "preco": "R$ 28,90",
+      "imagem": "https://source.unsplash.com/400x300/?pizza,chocolate&sig=7"
+    },
+    {
+      "id": 8,
+      "nome": "Morango com Chocolate",
+      "descricao": "Chocolate ao leite e morangos frescos.",
+      "preco": "R$ 30,90",
+      "imagem": "https://source.unsplash.com/400x300/?pizza,morango&sig=8"
+    },
+    {
+      "id": 9,
+      "nome": "Banana com Canela",
+      "descricao": "Banana fatiada, açúcar e canela.",
+      "preco": "R$ 26,90",
+      "imagem": "https://source.unsplash.com/400x300/?pizza,banana&sig=9"
+    }
+  ]
+}
